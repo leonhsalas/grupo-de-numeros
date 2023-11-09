@@ -1,0 +1,1 @@
+elemento = int(input("Cual es el numero que vas a a agregar a la lista"))
